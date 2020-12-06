@@ -23,6 +23,8 @@ We built a time-dependent SEIRD model that:
 # Important Notice
 T-CUBE (including any and all technology, assets, use-cases, contributors, and team members) are not responsible for your actions with and surrounding the model. You, your teams, and interested parties are solely responsible for your/their actions, moves, and decisions, and the evaluation of, interest in, and/or incorporation of this technology should be based on your own due diligence (please do your own research). You agree that T-CUBE is not liable to you, your teams, or organizations in any way for any and all results stemming from using this technology. We make no guarantees of past, current, or future performance, nor promise of results in the future.
 
+Also, the model is dependent upon the data inputs and quality/quantity of data available, which can affect how the model behaves and performs under certain parameters.
+
 T-CUBE was created as a hackathon project in response to the scary times surrounding the COVID-19 pandemic, and should be treated as such. We are a passionate team of social innovators and hope that this codebase can be a window to spur on further innovation to address this global health crisis.
 
 # Licensing
