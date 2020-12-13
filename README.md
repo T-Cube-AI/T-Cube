@@ -20,6 +20,12 @@ We built a time-dependent SEIRD model that:
 * Derives the parameters that are dynamic from the historical cases data
 * Uses Statistical methods for validation to avoid overfitting
 
+# Assumptions
+The following assumptions are made while building the model:
+* Reinfection of recovered person is considered negligible.
+* The growth of testing capabilities is same as that of the previous week.
+* The effects of interventions are reflected in the observed data.
+
 # Important Notice
 T-CUBE (including any and all technology, assets, use-cases, contributors, and team members) are not responsible for your actions with and surrounding the model. You, your teams, and interested parties are solely responsible for your/their actions, moves, and decisions, and the evaluation of, interest in, and/or incorporation of this technology should be based on your own due diligence (please do your own research). You agree that T-CUBE is not liable to you, your teams, or organizations in any way for any and all results stemming from using this technology. We make no guarantees of past, current, or future performance, nor promise of results in the future.
 
