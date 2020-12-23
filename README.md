@@ -1,6 +1,6 @@
 ![[T-CUBE Logo]](https://github.com/T-Cube-AI/T-Cube/blob/main/README-Cover%202.png)
 # T-Cube
-An award-winning SEIRD data model for predicting the spread of COVID cases with AI.
+An award-winning Time-dependent SEIRD data-driven model for predicting the transmission dynamics of COVID-19.
 
 [![Build Status](https://github.com/T-Cube-AI/T-Cube/workflows/Build%20Status/badge.svg)](https://github.com/T-Cube-AI/T-Cube/actions)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
