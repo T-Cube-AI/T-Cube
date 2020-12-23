@@ -14,9 +14,9 @@ The rapid increase in the COVID-19 cases has resulted in severe shortage of esse
 # 💡 The Solution
 A data-driven model and dashboard for forecasting the confirmed, active and deceased COVID-19 cases for the next 21 days, and using them to estimate essential medical resources, as well as an identification tool for tracking upcoming COVID-19 hotspots to help with resource allocation.
 
-A Time-Dependent SEIRD Model for Forecasting the COVID-19 Transmission Dynamics 
-Taarak Rapolu, Brahmani Nutakki, T. Sobha Rani, S. Durga Bhavani
-[doi]: https://doi.org/10.1101/2020.05.29.20113571
+**A Time-Dependent SEIRD Model for Forecasting the COVID-19 Transmission Dynamics**  
+Taarak Rapolu, Brahmani Nutakki, T. Sobha Rani, S. Durga Bhavani  
+doi: https://doi.org/10.1101/2020.05.29.20113571
 
 # 💻 Epidemic Modelling
 We built a time-dependent SEIRD model that:
