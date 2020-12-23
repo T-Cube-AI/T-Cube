@@ -1,6 +1,6 @@
 ![[T-CUBE Logo]](https://github.com/T-Cube-AI/T-Cube/blob/main/README-Cover%202.png)
 # T-Cube
-An award-winning Time-dependent SEIRD model ( data-driven ) for predicting the transmission dynamics of COVID-19.
+An award-winning Time-dependent SEIRD model for predicting the transmission dynamics of COVID-19.
 
 [![Build Status](https://github.com/T-Cube-AI/T-Cube/workflows/Build%20Status/badge.svg)](https://github.com/T-Cube-AI/T-Cube/actions)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,6 +13,10 @@ The rapid increase in the COVID-19 cases has resulted in severe shortage of esse
 
 # 💡 The Solution
 A data-driven model and dashboard for forecasting the confirmed, active and deceased COVID-19 cases for the next 21 days, and using them to estimate essential medical resources, as well as an identification tool for tracking upcoming COVID-19 hotspots to help with resource allocation.
+
+A Time-Dependent SEIRD Model for Forecasting the COVID-19 Transmission Dynamics 
+Taarak Rapolu, Brahmani Nutakki, T. Sobha Rani, S. Durga Bhavani
+[doi]: https://doi.org/10.1101/2020.05.29.20113571
 
 # 💻 Epidemic Modelling
 We built a time-dependent SEIRD model that:
